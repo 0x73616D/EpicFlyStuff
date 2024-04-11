@@ -20,4 +20,4 @@ Para adquirir este script contacta conmigo en mi discord: [Aquí](https://discor
 
 ## 👀 Vista dentro del juego (click sobre la imagen para ver un video):
 
-[![Vista dentro del juego](https://media.discordapp.net/attachments/1217747170841727040/1223350277705433219/image.png?ex=661988ba&is=660713ba&hm=fe6b165a8b93f4a6088d7fbaf5304468c08ce1ebd07b708fa23ae8e8edc1f0b6&=&format=webp&quality=lossless&width=842&height=473)](https://youtu.be/0z50rTjVoQ4?si=Dq4ZZb23pS6nQjmp&t=59)
+[![Vista dentro del juego](https://github.com/0x73616D/EpicFlyStuff/assets/94794277/8f39eb0d-680c-4b90-bf2c-c287fc60af13)](https://youtu.be/0z50rTjVoQ4?si=Dq4ZZb23pS6nQjmp&t=59)
