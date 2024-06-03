@@ -16,7 +16,7 @@ Este script agrega hojas y otras texturas bonitas al entorno, simulando su caida
 
 ## ☄️ Instalación:
 
-Para adquirir este script contacta conmigo en mi discord: [Aquí](https://discord.com/users/717764929113030756)
+Para adquirir este script contacta conmigo en mi discord: [Aquí](https://discord.com/users/1246311073204670540)
 
 ## 👀 Vista dentro del juego (click sobre la imagen para ver un video):
 
